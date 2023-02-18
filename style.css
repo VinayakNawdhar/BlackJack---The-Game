@@ -1,0 +1,32 @@
+body {
+    background-image: url("preview-931987-6KSdeQierI5PgQOd-large.jfif");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 7vw;
+  }
+  h1 {
+    color: goldenrod;
+  }
+  
+  #message-el {
+    font-style: italic;
+  }
+  button {
+    background-color: goldenrod;
+    font-size: 7vw;
+    font-weight: bolder;
+    color: rgba(23, 117, 7, 0.953);
+    padding: 10px 50px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  #new-card{
+    display: none;
+  }
+  #reload{
+    display: none;
+  }
